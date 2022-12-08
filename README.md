@@ -10,4 +10,4 @@ Watch my *[DEMO VIDEOS!](https://reurl.cc/O429QR)*
 *[Name Popularity Searching System](https://github.com/tingwenchang/stanCode-SC101-projects/blob/main/stanCode_projects/SC101_Assignment4/babygraphics.py)\
 *data structure\
 *[Boggle Game Solver](https://github.com/tingwenchang/stanCode-SC101-projects/blob/main/stanCode_projects/SC101_Assignment6/boggle.py)\
-*recursive functions\
+*recursive functions
